@@ -55,6 +55,4 @@ This project provides a FastAPI application for uploading CSV files, training a 
   - Request: JSON object with input data.
   - Response: Prediction results.
 
-## License
 
-This project is licensed under the MIT License.
